@@ -18,7 +18,7 @@ Education
 
 Publications
 ======
-* Ziquan Wang, **Mingxuan Xia**, Xiangyu Ren, Jiaqing Zhou, Tianlei Hu, and Haobo Wang. *Multi-Instance Multi-Label Classification from Crowdsourced Labels* (**AAAI 2025**)
+* Ziquan Wang, **Mingxuan Xia**, Xiangyu Ren, Jiaqing Zhou, Gengyu Lyu, Tianlei Hu, and Haobo Wang. *Multi-Instance Multi-Label Classification from Crowdsourced Labels* (**AAAI 2025**)
 * **Mingxuan Xia**, Zenan Huang, Runze Wu, Gengyu Lyu, Junbo Zhao, Gang Chen, and Haobo Wang. *Unbiased Multi-Label Learning from Crowdsourced Annotations* (**ICML 2024**) [paper](https://openreview.net/pdf?id=bgP8Rxv2eB)
 * **Mingxuan Xia**, Junbo Zhao, Gengyu Lyu, Zenan Huang, Tianlei Hu, Gang Chen, and Haobo Wang. *A Separation and Alignment Framework for Black-Box Domain Adaptation* (**AAAI 2024**) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/29532/30884)
 * Haobo Wang, **Mingxuan Xia**, Yixuan Li, Yuren Mao, Lei Feng, Gang Chen, and Junbo Zhao. *Solar: Sinkhorn label refinery for imbalanced partial-label learning* (**NeurIPS 2022**) [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/357a0a771bf65ee07926d6af41b75030-Paper-Conference.pdf)
