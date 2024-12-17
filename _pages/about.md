@@ -40,5 +40,5 @@ Experience
 
 Academic Services
 ======
-- **ICLR 2024** reviewer
+- **ICLR 2025** reviewer
 - **ECCV 2024** reviewer
