@@ -18,6 +18,8 @@ Education
 
 Publications
 ======
+* **Mingxuan Xia**, Haobo Wang, Yixuan Li, Zewei Yu, Jindong Wang, Junbo Zhao, Runze Wu. *Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation* (**ACL-Main 2025**)
+* Rui Wang, **Mingxuan Xia**, Haobo Wang, Lei Feng, Junbo Zhao, Gang Chen, Chang Yao. *Towards Robust Incremental Learning under Ambiguous Supervision* (**IJCAI 2025**)
 * Ziquan Wang, **Mingxuan Xia**, Xiangyu Ren, Jiaqing Zhou, Gengyu Lyu, Tianlei Hu, and Haobo Wang. *Multi-Instance Multi-Label Classification from Crowdsourced Labels* (**AAAI 2025**)
 * **Mingxuan Xia**, Zenan Huang, Runze Wu, Gengyu Lyu, Junbo Zhao, Gang Chen, and Haobo Wang. *Unbiased Multi-Label Learning from Crowdsourced Annotations* (**ICML 2024**) [paper](https://openreview.net/pdf?id=bgP8Rxv2eB)
 * **Mingxuan Xia**, Junbo Zhao, Gengyu Lyu, Zenan Huang, Tianlei Hu, Gang Chen, and Haobo Wang. *A Separation and Alignment Framework for Black-Box Domain Adaptation* (**AAAI 2024**) [paper](https://ojs.aaai.org/index.php/AAAI/article/download/29532/30884)
