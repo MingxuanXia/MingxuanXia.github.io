@@ -18,6 +18,7 @@ Education
 
 Publications
 ======
+* **Mingxuan Xia**, Zhijie Jiang, Haobo Wang, Junbo Zhao, Tianlei Hu, Gang Chen. *Ensembling Prompting Strategies for Zero-Shot Hierarchical Text Classification with Large Language Models* (**EMNLP-Main 2025**)
 * **Mingxuan Xia**, Haobo Wang, Yixuan Li, Zewei Yu, Jindong Wang, Junbo Zhao, Runze Wu. *Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation* (**ACL-Main 2025**)
 * Rui Wang, **Mingxuan Xia**, Haobo Wang, Lei Feng, Junbo Zhao, Gang Chen, Chang Yao. *Towards Robust Incremental Learning under Ambiguous Supervision* (**IJCAI 2025**)
 * Ziquan Wang, **Mingxuan Xia**, Xiangyu Ren, Jiaqing Zhou, Gengyu Lyu, Tianlei Hu, and Haobo Wang. *Multi-Instance Multi-Label Classification from Crowdsourced Labels* (**AAAI 2025**)
@@ -42,5 +43,6 @@ Experience
 
 Academic Services
 ======
+- **AAAI 2026** reviewer
 - **ICLR 2025** reviewer
 - **ECCV 2024** reviewer
