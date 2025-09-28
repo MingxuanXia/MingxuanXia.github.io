@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 He is currently a Ph.D. student at [School of Software Technology, Zhejiang University](http://www.cst.zju.edu.cn/). His supervisor is Assistant Professor [Haobo Wang](https://hbzju.github.io/). His major research interests generally lie in the area of machine learning and data intelligence,
-including black-box adaptation, low-resource methods, and large language models. 
+including black-box adaptation, low-resource methods, and large language models. He is now a visiting student at [Nanyang Technological University](https://www.ntu.edu.sg/), supervised by Professor [Bo An](https://personal.ntu.edu.sg/boan/).
 
 Education
 ======
@@ -18,6 +18,7 @@ Education
 
 Publications
 ======
+* Maosheng Qin, Renyu Zhu, **Mingxuan Xia**, Chenkai Chen, Zhen Zhu, Minmin Lin, Junbo Zhao, Lu Xu, Changjie Fan, Runze Wu, Haobo Wang. *CrowdAgent: Multi-Agent Managed Multi-Source Annotation System* (**EMNLP-Demo 2025**)
 * **Mingxuan Xia**, Zhijie Jiang, Haobo Wang, Junbo Zhao, Tianlei Hu, Gang Chen. *Ensembling Prompting Strategies for Zero-Shot Hierarchical Text Classification with Large Language Models* (**EMNLP-Main 2025**)
 * **Mingxuan Xia**, Haobo Wang, Yixuan Li, Zewei Yu, Jindong Wang, Junbo Zhao, Runze Wu. *Prompt Candidates, then Distill: A Teacher-Student Framework for LLM-driven Data Annotation* (**ACL-Main 2025**)
 * Rui Wang, **Mingxuan Xia**, Haobo Wang, Lei Feng, Junbo Zhao, Gang Chen, Chang Yao. *Towards Robust Incremental Learning under Ambiguous Supervision* (**IJCAI 2025**)
@@ -38,8 +39,8 @@ Awards
 
 Experience
 ======
-- **Research Intern** in MSRA, Beijing, China (01.2024 - 04.2024)
-- **Intern** in Netease Inc., Hangzhou, China (07.2022 - 09.2022)
+- **Research Intern** in MSRA, Beijing, China (01.2024 - 04.2024). Mentor: Jindong Wang
+- **Intern** in Netease Inc., Hangzhou, China (07.2022 - 09.2022). Mentor: Shiwei Zhao
 
 Academic Services
 ======
